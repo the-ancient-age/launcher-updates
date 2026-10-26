@@ -1,0 +1,5 @@
+# Never commit private keys.
+*.key
+*.sec
+*.secret
+*.minisign-key
