@@ -1,0 +1,32 @@
+{
+    "schema":  1,
+    "product":  "THE ANCIENT AGE",
+    "channel":  "stable",
+    "sequence":  1,
+    "published":  "2026-10-26T17:16:07Z",
+    "patch":  {
+                  "version":  "1.0.3",
+                  "title":  "Balance Patch",
+                  "aotrVersion":  "9.3.3",
+                  "packageFormat":  1,
+                  "buildFingerprint":  "3ac8eeeea9691e4c777c6e792c4c5af200bda3091f00e09e5de7294a4da8dcbf",
+                  "minLauncher":  "0.4.0",
+                  "url":  "https://github.com/the-ancient-age/launcher-updates/releases/download/patch-1.0.3/TheAncientAge-patch-1.0.3.taotapkg",
+                  "sha256":  "456ba6a096b3b1775c47c9aa13f0625a44429c915260b03f4009e6f67bc08e6e",
+                  "size":  112403
+              },
+    "launcher":  {
+                     "version":  "0.4.0",
+                     "url":  "https://github.com/the-ancient-age/launcher-updates/releases/download/launcher-0.4.0/TheAncientAge-0.4.0.exe",
+                     "sha256":  "104b09af0dfdfea198d69231dbdf534d05ef903af0825339336a53c39c87a6e6",
+                     "size":  15164416
+                 },
+    "notes":  {
+                  "title":  "Launcher 0.4.0 - online updates",
+                  "notes":  [
+                                "Launcher 0.4.0: online updates. The launcher checks for new versions when it starts and installs them only when you press UPDATE NOW or UPDATE LAUNCHER.",
+                                "Every update is signed and verified before it is installed; the previous version is kept and comes back automatically if something goes wrong.",
+                                "Balance Patch 1.0.3: installs on Age of the Ring copies without the optional \u0027lang\u0027 folder. Game mechanics are unchanged."
+                            ]
+              }
+}
